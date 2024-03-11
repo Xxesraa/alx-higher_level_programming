@@ -1,2 +1,3 @@
 #!/bin/bash
-python3 print("/'Programming is like building a multilingual puzzle")
+# 2-print.py
+print("Programming is like building a multilingual puzzle")
